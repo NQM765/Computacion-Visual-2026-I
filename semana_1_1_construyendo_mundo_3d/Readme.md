@@ -2,7 +2,7 @@
 
 ## Nombre del estudiante
 
-[Nicolas Quezada Mora]
+Nicolas Quezada Mora
 
 ## Fecha de entrega
 
@@ -211,18 +211,3 @@ semana_1_1_construyendo_mundo_3d/
 - ChatGpt: https://chatgpt.com/
 - trimesh docs: https://trimesh.org/
 - vedo docs: https://vedo.embl.es/
-
-
----
-
-## Checklist de entrega
-
-- [x] Carpeta con nombre `semana_1_1_construyendo_mundo_3d`
-- [x] Codigo funcional en carpetas por entorno
-- [x] GIFs/imagenes incluidos con nombres descriptivos en `media/`
-- [x] README completado con secciones requeridas
-- [x] Minimo 2 capturas/GIFs por implementacion
-- [ ] Commits descriptivos en ingles (verificar)
-- [ ] Repositorio organizado y publico (verificar)
-
----
