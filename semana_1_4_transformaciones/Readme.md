@@ -79,6 +79,8 @@ Vista de la escena en Unity.
 
 ![Three.js captura](./media/Threejs.png)
 
+![Three.js captura](./media/threejs.gif)
+
 Escena con cubo animado por `useFrame` y navegacion con `OrbitControls`.
 
 ### Processing
@@ -155,15 +157,15 @@ Se usaron prompts para la generacion de cada uno de los scripts preguntando de q
 
 ### Aprendizajes
 
-
+Se aprendio a realizar diferentes tipos de movimientos como escalados, rotaciones y traslaciones de manera automatica en diferentes entornos y se uso por primera vez processing.
 
 ### Dificultades
 
-
+En este taller lo que mas represento dificultad fue generar los scripts ya que estos eran los que se encargaban de realizar los diversos movimientos solicitados.
 
 ### Mejoras futuras
 
-
+Para mejoras futuras se podria incluir una manera de alternar entre movimientos automatico y manuales aplicados a las figuras.
 
 ---
 
