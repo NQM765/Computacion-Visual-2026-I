@@ -1,4 +1,4 @@
-﻿# Titulo del Taller
+﻿# Jerarquias y Transformaciones
 
 Jerarquias y Transformaciones 3D (Three.js con React Three Fiber + Unity LTS)
 
